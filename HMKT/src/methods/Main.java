@@ -14,5 +14,6 @@ class Main {
         new ModifikacvacMetod(matrix, vector).solve(1000, 5);
         new Zeydel(matrix, vector).solve(1000, 100);
         new NvazaguynQarakusineriMetod(matrix, vector).solve(1000, 5);
+		// test comment for github
     }
 }
