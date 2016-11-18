@@ -18,7 +18,7 @@ class Main {
         new Zeydel(matrix, vector).solve(1000, 100);
         new NvazaguynQarakusineriMetod(matrix, vector).solve(1000, 5);
 
-        new Gauss(matrix, vector).solve();//
+        new Gauss(matrix, vector).solve();
         new GaussJordan(matrix, vector).solve();
     }
 }
