@@ -4,7 +4,6 @@ import org.la4j.Matrix;
 import org.la4j.Vector;
 
 public class GaussJordan extends CommonOperations{
-
     public GaussJordan(Matrix A, Vector b) {
         this.A = A.copy();
         this.b = b.copy();

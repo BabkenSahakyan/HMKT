@@ -4,7 +4,6 @@ import org.la4j.Matrix;
 import org.la4j.Vector;
 
 public class BacahaytMetod extends CoefficientMatrices{
-
     public BacahaytMetod(Matrix A, Vector b) {
         setA(A);
         setB(b);

@@ -3,9 +3,6 @@ package cshgrit.metodner;
 import org.la4j.Matrix;
 import org.la4j.Vector;
 
-/**
- * Created by babken on 11/18/16.
- */
 abstract class CommonOperations {
     protected Matrix A;
     protected Vector b;
