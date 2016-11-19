@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="91605ebe-bfac-4bb3-bcc4-3ab19c18e24f" name="Default" comment="">
+=======
+    <list default="true" id="91605ebe-bfac-4bb3-bcc4-3ab19c18e24f" name="Default" comment="fg">
+>>>>>>> e1617b9a6ad6d308552902f5038267abc6ceeab4
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HMKT.iws" />
@@ -40,8 +44,13 @@
       <file leaf-file-name="NvazaguynQarakusineriMetod.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hasarak/iteracianer/NvazaguynQarakusineriMetod.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="162">
               <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+=======
+            <state relative-caret-position="216">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+>>>>>>> e1617b9a6ad6d308552902f5038267abc6ceeab4
               <folding />
             </state>
           </provider>
@@ -746,7 +755,11 @@
       <workItem from="1479385658148" duration="21740000" />
       <workItem from="1479412859267" duration="1608000" />
       <workItem from="1479483794077" duration="3518000" />
+<<<<<<< HEAD
       <workItem from="1479534283797" duration="1846000" />
+=======
+      <workItem from="1479534283797" duration="2515000" />
+>>>>>>> e1617b9a6ad6d308552902f5038267abc6ceeab4
     </task>
     <task id="LOCAL-00001" summary="adding new class&#10;">
       <created>1479539285424</created>
@@ -761,12 +774,28 @@
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1479539440006</updated>
+<<<<<<< HEAD
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="40605000" />
+=======
+    </task>
+    <task id="LOCAL-00003" summary="fg">
+      <created>1479539459497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1479539459497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41274000" />
+>>>>>>> e1617b9a6ad6d308552902f5038267abc6ceeab4
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1364" height="741" extended-state="0" />
@@ -814,7 +843,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding new class&#10;" />
     <MESSAGE value="deleting that class&#10;" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="deleting that class&#10;" />
+=======
+    <MESSAGE value="fg" />
+    <option name="LAST_COMMIT_MESSAGE" value="fg" />
+>>>>>>> e1617b9a6ad6d308552902f5038267abc6ceeab4
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1238,8 +1272,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hasarak/iteracianer/NvazaguynQarakusineriMetod.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="162">
           <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+=======
+        <state relative-caret-position="216">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+>>>>>>> e1617b9a6ad6d308552902f5038267abc6ceeab4
           <folding />
         </state>
       </provider>
